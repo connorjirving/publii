@@ -1,21 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Connor Irving Photography</title>
-    <link href="http://cirvingphotography.me/feed.xml" rel="self" />
-    <link href="http://cirvingphotography.me" />
-    <updated>2020-04-25T19:32:39+01:00</updated>
+    <link href="https://cirvingphotography.me/feed.xml" rel="self" />
+    <link href="https://cirvingphotography.me" />
+    <updated>2020-04-25T22:20:37+01:00</updated>
     <author>
         <name>Connor Irving</name>
     </author>
-    <id>http://cirvingphotography.me</id>
+    <id>https://cirvingphotography.me</id>
 
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Connor Irving</name>
+        </author>
+        <link href="https://cirvingphotography.me/about/"/>
+        <id>https://cirvingphotography.me/about/</id>
+
+        <updated>2020-04-25T22:16:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                    "Experimental Imagery" derives from the desire to experience unique film stock's. This site will be used as an online gallery of selected imagery, including processing&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p id="mcetoc_1e6pidlsu0">"Experimental Imagery" derives from the desire to experience unique film stock's. </p>
+<p>This site will be used as an online gallery of selected imagery, including processing notes and development information.</p>
+<p>Further updates shall be found throughout my posting.</p>
+<p> </p>
+<p>Connor Irving. (BA)</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Architecture from Worksop to Lincoln</title>
+        <author>
+            <name>Connor Irving</name>
+        </author>
+        <link href="https://cirvingphotography.me/architecture/"/>
+        <id>https://cirvingphotography.me/architecture/</id>
+            <category term="35mm"/>
+
+        <updated>2020-04-25T21:53:09+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Ilford Kentmere 400. Developed in D-76. Shot with Canon Sureshot AF-7.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img002.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img002-thumbnail.jpg" alt="" width="480" height="314"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img010.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img010-thumbnail.jpg" alt="" width="480" height="314"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img013.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img013-thumbnail.jpg" alt="" width="480" height="318"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img014.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img014-thumbnail.jpg" alt="" width="480" height="314"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img016.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img016-thumbnail.jpg" alt="" width="480" height="311"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img020.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img020-thumbnail.jpg" alt="" width="480" height="318"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img023.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img023-thumbnail.jpg" alt="" width="480" height="729"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img024.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img024-thumbnail.jpg" alt="" width="480" height="316"></a></figure>
+</div>
+<hr>
+<h6 id="mcetoc_1e6ph6p390" class="align-center">Ilford Kentmere 400. Developed in D-76. Shot with Canon Sureshot AF-7.</h6>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Print Sales</title>
         <author>
             <name>Connor Irving</name>
         </author>
-        <link href="http://cirvingphotography.me/print-sales/"/>
-        <id>http://cirvingphotography.me/print-sales/</id>
+        <link href="https://cirvingphotography.me/print-sales/"/>
+        <id>https://cirvingphotography.me/print-sales/</id>
 
         <updated>2020-04-25T18:15:17+01:00</updated>
             <summary>
@@ -35,8 +92,8 @@
         <author>
             <name>Connor Irving</name>
         </author>
-        <link href="http://cirvingphotography.me/first-film-swap/"/>
-        <id>http://cirvingphotography.me/first-film-swap/</id>
+        <link href="https://cirvingphotography.me/first-film-swap/"/>
+        <id>https://cirvingphotography.me/first-film-swap/</id>
             <category term="Film Swap"/>
             <category term="35mm"/>
 
@@ -49,20 +106,20 @@
         <content type="html">
             <![CDATA[
                 <div class="gallery"   >
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/104/gallery/img003.jpg" ><img src="http://cirvingphotography.me/media/posts/104/gallery/img003-thumbnail.jpg" alt="" width="480" height="312"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/104/gallery/img011.jpg" ><img src="http://cirvingphotography.me/media/posts/104/gallery/img011-thumbnail.jpg" alt="" width="480" height="313"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/104/gallery/img016.jpg" ><img src="http://cirvingphotography.me/media/posts/104/gallery/img016-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/104/gallery/img017.jpg" ><img src="http://cirvingphotography.me/media/posts/104/gallery/img017-thumbnail.jpg" alt="" width="480" height="318"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/104/gallery/img018.jpg" ><img src="http://cirvingphotography.me/media/posts/104/gallery/img018-thumbnail.jpg" alt="" width="480" height="321"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/104/gallery/img020.jpg" ><img src="http://cirvingphotography.me/media/posts/104/gallery/img020-thumbnail.jpg" alt="" width="480" height="309"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/104/gallery/img022.jpg" ><img src="http://cirvingphotography.me/media/posts/104/gallery/img022-thumbnail.jpg" alt="" width="480" height="312"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/104/gallery/img023.jpg" ><img src="http://cirvingphotography.me/media/posts/104/gallery/img023-thumbnail.jpg" alt="" width="480" height="306"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/104/gallery/img027.jpg" ><img src="http://cirvingphotography.me/media/posts/104/gallery/img027-thumbnail.jpg" alt="" width="480" height="308"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/104/gallery/img028.jpg" ><img src="http://cirvingphotography.me/media/posts/104/gallery/img028-thumbnail.jpg" alt="" width="480" height="308"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/104/gallery/img029.jpg" ><img src="http://cirvingphotography.me/media/posts/104/gallery/img029-thumbnail.jpg" alt="" width="480" height="312"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/104/gallery/img032.jpg" ><img src="http://cirvingphotography.me/media/posts/104/gallery/img032-thumbnail.jpg" alt="" width="480" height="308"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/104/gallery/img036.jpg" ><img src="http://cirvingphotography.me/media/posts/104/gallery/img036-thumbnail.jpg" alt="" width="480" height="319"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/104/gallery/img037.jpg" ><img src="http://cirvingphotography.me/media/posts/104/gallery/img037-thumbnail.jpg" alt="" width="480" height="324"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/104/gallery/img003.jpg" ><img src="https://cirvingphotography.me/media/posts/104/gallery/img003-thumbnail.jpg" alt="" width="480" height="312"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/104/gallery/img011.jpg" ><img src="https://cirvingphotography.me/media/posts/104/gallery/img011-thumbnail.jpg" alt="" width="480" height="313"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/104/gallery/img016.jpg" ><img src="https://cirvingphotography.me/media/posts/104/gallery/img016-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/104/gallery/img017.jpg" ><img src="https://cirvingphotography.me/media/posts/104/gallery/img017-thumbnail.jpg" alt="" width="480" height="318"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/104/gallery/img018.jpg" ><img src="https://cirvingphotography.me/media/posts/104/gallery/img018-thumbnail.jpg" alt="" width="480" height="321"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/104/gallery/img020.jpg" ><img src="https://cirvingphotography.me/media/posts/104/gallery/img020-thumbnail.jpg" alt="" width="480" height="309"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/104/gallery/img022.jpg" ><img src="https://cirvingphotography.me/media/posts/104/gallery/img022-thumbnail.jpg" alt="" width="480" height="312"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/104/gallery/img023.jpg" ><img src="https://cirvingphotography.me/media/posts/104/gallery/img023-thumbnail.jpg" alt="" width="480" height="306"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/104/gallery/img027.jpg" ><img src="https://cirvingphotography.me/media/posts/104/gallery/img027-thumbnail.jpg" alt="" width="480" height="308"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/104/gallery/img028.jpg" ><img src="https://cirvingphotography.me/media/posts/104/gallery/img028-thumbnail.jpg" alt="" width="480" height="308"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/104/gallery/img029.jpg" ><img src="https://cirvingphotography.me/media/posts/104/gallery/img029-thumbnail.jpg" alt="" width="480" height="312"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/104/gallery/img032.jpg" ><img src="https://cirvingphotography.me/media/posts/104/gallery/img032-thumbnail.jpg" alt="" width="480" height="308"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/104/gallery/img036.jpg" ><img src="https://cirvingphotography.me/media/posts/104/gallery/img036-thumbnail.jpg" alt="" width="480" height="319"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/104/gallery/img037.jpg" ><img src="https://cirvingphotography.me/media/posts/104/gallery/img037-thumbnail.jpg" alt="" width="480" height="324"></a></figure>
 </div>
 <hr>
 <h6 id="mcetoc_1e6p0095a0" class="align-center">Kodak Tri-x 400. Developed in D76. Shot with Ricoh XR-2. Film swap partner <strong><a href="https://www.instagram.com/kollimatorn/" target="_blank" rel="noopener noreferrer">@kollimatorn</a></strong><em>.</em></h6>
@@ -70,15 +127,15 @@
         </content>
     </entry>
     <entry>
-        <title>Caffenol</title>
+        <title>Richmond</title>
         <author>
             <name>Connor Irving</name>
         </author>
-        <link href="http://cirvingphotography.me/caffenol/"/>
-        <id>http://cirvingphotography.me/caffenol/</id>
+        <link href="https://cirvingphotography.me/caffenol/"/>
+        <id>https://cirvingphotography.me/caffenol/</id>
             <category term="35mm"/>
 
-        <updated>2020-04-25T16:32:05+01:00</updated>
+        <updated>2020-04-25T21:32:47+01:00</updated>
             <summary>
                 <![CDATA[
                     Ilford Delta 100. Developed in Caffenol. Shot with Zenit 12XP.
@@ -87,19 +144,19 @@
         <content type="html">
             <![CDATA[
                 <div class="gallery"   >
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-1.jpg" ><img src="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-1-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-2.jpg" ><img src="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-2-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-10.jpg" ><img src="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-10-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-11.jpg" ><img src="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-11-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-12.jpg" ><img src="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-12-thumbnail.jpg" alt="" width="480" height="302"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-13.jpg" ><img src="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-13-thumbnail.jpg" alt="" width="480" height="313"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-15.jpg" ><img src="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-15-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-16.jpg" ><img src="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-16-thumbnail.jpg" alt="" width="480" height="735"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-17.jpg" ><img src="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-17-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-18.jpg" ><img src="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-18-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-19.jpg" ><img src="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-19-thumbnail.jpg" alt="" width="480" height="748"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-20.jpg" ><img src="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-20-thumbnail.jpg" alt="" width="480" height="309"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-21.jpg" ><img src="http://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-21-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-1.jpg" ><img src="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-1-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-2.jpg" ><img src="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-2-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-10.jpg" ><img src="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-10-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-11.jpg" ><img src="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-11-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-12.jpg" ><img src="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-12-thumbnail.jpg" alt="" width="480" height="302"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-13.jpg" ><img src="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-13-thumbnail.jpg" alt="" width="480" height="313"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-15.jpg" ><img src="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-15-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-16.jpg" ><img src="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-16-thumbnail.jpg" alt="" width="480" height="735"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-17.jpg" ><img src="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-17-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-18.jpg" ><img src="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-18-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-19.jpg" ><img src="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-19-thumbnail.jpg" alt="" width="480" height="748"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-20.jpg" ><img src="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-20-thumbnail.jpg" alt="" width="480" height="309"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-21.jpg" ><img src="https://cirvingphotography.me/media/posts/102/gallery/IlfordDeltaCaffenol-21-thumbnail.jpg" alt="" width="480" height="315"></a></figure>
 </div>
 <hr>
 <h6 id="mcetoc_1e6ovb6f61" class="align-center">Ilford Delta 100. Developed in Caffenol. Shot with Zenit 12XP.</h6>
@@ -111,8 +168,8 @@
         <author>
             <name>Connor Irving</name>
         </author>
-        <link href="http://cirvingphotography.me/home-life/"/>
-        <id>http://cirvingphotography.me/home-life/</id>
+        <link href="https://cirvingphotography.me/home-life/"/>
+        <id>https://cirvingphotography.me/home-life/</id>
             <category term="Medium Format"/>
 
         <updated>2020-04-25T16:34:44+01:00</updated>
@@ -124,17 +181,17 @@
         <content type="html">
             <![CDATA[
                 <div class="gallery"   >
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R001.jpg" ><img src="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R001-thumbnail.jpg" alt="" width="554" height="600"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R002.jpg" ><img src="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R002-thumbnail.jpg" alt="" width="588" height="600"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R003.jpg" ><img src="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R003-thumbnail.jpg" alt="" width="596" height="600"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R004.jpg" ><img src="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R004-thumbnail.jpg" alt="" width="592" height="600"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R005.jpg" ><img src="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R005-thumbnail.jpg" alt="" width="589" height="600"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R006.jpg" ><img src="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R006-thumbnail.jpg" alt="" width="582" height="600"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R007.jpg" ><img src="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R007-thumbnail.jpg" alt="" width="590" height="600"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R008.jpg" ><img src="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R008-thumbnail.jpg" alt="" width="587" height="600"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R009.jpg" ><img src="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R009-thumbnail.jpg" alt="" width="591" height="600"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R010.jpg" ><img src="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R010-thumbnail.jpg" alt="" width="573" height="600"></a></figure>
-<figure class="gallery__item"><a href="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R012.jpg" ><img src="http://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R012-thumbnail.jpg" alt="" width="590" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R001.jpg" ><img src="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R001-thumbnail.jpg" alt="" width="554" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R002.jpg" ><img src="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R002-thumbnail.jpg" alt="" width="588" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R003.jpg" ><img src="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R003-thumbnail.jpg" alt="" width="596" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R004.jpg" ><img src="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R004-thumbnail.jpg" alt="" width="592" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R005.jpg" ><img src="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R005-thumbnail.jpg" alt="" width="589" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R006.jpg" ><img src="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R006-thumbnail.jpg" alt="" width="582" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R007.jpg" ><img src="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R007-thumbnail.jpg" alt="" width="590" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R008.jpg" ><img src="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R008-thumbnail.jpg" alt="" width="587" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R009.jpg" ><img src="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R009-thumbnail.jpg" alt="" width="591" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R010.jpg" ><img src="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R010-thumbnail.jpg" alt="" width="573" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R012.jpg" ><img src="https://cirvingphotography.me/media/posts/101/gallery/Bronica-S2-FP4R012-thumbnail.jpg" alt="" width="590" height="600"></a></figure>
 </div>
 <hr>
 <h6 id="mcetoc_1e6ovhshb0" class="align-center">Ilford FP4+ 125 (with red filter). Developed in D76. Shot with Bronica S2.</h6>
