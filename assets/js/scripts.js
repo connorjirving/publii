@@ -1,119 +1,137 @@
-(function ($) {
-    // Dropdown menu
-    $(function () {
-        $('.js-navbar__toggle').on('click', function () {
-            $('.js-navbar').toggleClass('is-opened');
-            $('.js-navbar__toggle').attr('aria-expanded', $('.js-navbar').hasClass('is-opened'));
-            return false;
+// Sticky menu
+var new_scroll_position = 0;
+var last_scroll_position;
+var header = document.getElementById("js-header");
+
+window.addEventListener('scroll', function (e) {
+    last_scroll_position = window.scrollY;
+
+    // Scrolling down
+    if (new_scroll_position < last_scroll_position && last_scroll_position > 40) {
+        header.classList.remove("is-visible");
+        header.classList.add("is-hidden");
+
+        // Scrolling up
+    } else if (new_scroll_position > last_scroll_position) {
+        header.classList.remove("is-hidden");
+        header.classList.add("is-visible");
+    }
+
+    if (last_scroll_position < 1) {
+        header.classList.remove("is-visible");
+    }
+
+    new_scroll_position = last_scroll_position;
+});
+
+
+// Toggle menu
+  var toggle = document.querySelector(".js-toggle");
+  
+      toggle.addEventListener("click", function() {   
+          toggle.classList.toggle("is-active");      
+             var el = document.getElementById("js-navbar-menu");   
+             el.classList.toggle("is-visible");
+  });
+
+// Pop-up
+(function () {
+    
+   // close popup
+    var closeHandlers = document.querySelectorAll('.popup .popup-close');
+
+    if (closeHandlers.length) {
+        for (var i = 0; i < closeHandlers.length; i++) {
+            closeHandlers[i].addEventListener('click', function () {
+                this.parentNode.classList.add('is-fade-out');
+
+                setTimeout(() => {
+                    this.parentNode.classList.remove('is-fade-out');
+                    this.parentNode.classList.remove('is-visible');
+                }, 690);
+            });
+        }
+    }
+    
+    // contact popup
+    let contactButtons = document.querySelectorAll('.js-contact-cta');
+    let contactPopup = document.querySelector('.js-contact');
+
+    if (contactButtons.length) {
+        contactPopup.addEventListener('click', function (e) {
+            e.stopPropagation();
         });
 
-        $('.js-navbar a').each(function (i, link) {
-            link = $(link);
-
-            link.on('click', function (e) {
-                if (
-                    link.parent().hasClass('has-submenu') &&
-                    $('.js-navbar__toggle').attr('aria-expanded') === 'true' &&
-                    link.parent().attr('aria-expanded') !== 'true'
-                ) {
-                    e.preventDefault();
-                    link.parent().attr('aria-expanded', 'true');
-                }
+        for (let i = 0; i < contactButtons.length; i++) {
+            contactButtons[i].addEventListener('click', function (e) {
+                e.preventDefault();
+                e.stopPropagation();
+                contactPopup.classList.toggle('is-visible');
             });
+        }
+
+        document.body.addEventListener('click', function () {
+            contactPopup.classList.remove('is-visible');
         });
-    });
+    }
+    
+    
+    // share popup
+    let shareButton = document.querySelector('.js-portfolio-cta');
+    let sharePopup = document.querySelector('.js-portfolio');
 
-    // iOS :hover fix
-    document.addEventListener("touchend", function () {});
+    if (shareButton) {
+        sharePopup.addEventListener('click', function (e) {
+            e.stopPropagation();
+        });
 
-    // Mainmenu improvements
-    $(function ($) {
-        var mainmenu = $('.navbar__menu');
-        var level0 = mainmenu.children('li');
+        shareButton.addEventListener('click', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+            sharePopup.classList.toggle('is-visible');
+        });
 
-        var setSubmenusPosition = function (submenus) {
-            if (!submenus.length) {
-                return;
-            }
+        document.body.addEventListener('click', function () {
+            sharePopup.classList.remove('is-visible');
+        });
+    }
 
-            submenus.each(function (i, submenu) {
-                submenu = $(submenu);
-
-                submenu.parent().on('mouseenter', function () {
-                    setTimeout(function () {
-                        var diff = $(window).outerWidth() - (submenu.offset().left + submenu.outerWidth());
-
-                        if (diff < 0) {
-                            submenu.addClass('navbar__submenu--reversed');
-                        }
-                    }, 50);
-                });
-            });
-
-            submenus.children('li').children('.navbar__submenu').each(function (i, submenus) {
-                setSubmenusPosition($(submenus));
-            });
-        };
-
-        if (level0.length) {
-            var level1 = level0.children('.navbar__submenu');
-
-            if (level1.length) {
-                level1.each(function (i, submenu) {
-                    submenu = $(submenu);
-
-                    submenu.parent().on('mouseenter', function () {
-                        setTimeout(function () {
-                            var diff = $(window).outerWidth() - (submenu.offset().left + submenu.outerWidth());
-
-                            if (diff < 0) {
-                                submenu.css('margin-left', (diff - 10) + "px");
-                            }
-                        }, 50);
-                    });
-
-                    submenu.children('li').children('.navbar__submenu').each(function (i, submenus) {
-                        setSubmenusPosition($(submenus));
-                    });
-                });
-            }
+    // link selector and pop-up window size
+    var Config = {
+        Link: ".js-share",
+        Width: 500,
+        Height: 500
+    };
+    // add handler links
+    var slink = document.querySelectorAll(Config.Link);
+    for (var a = 0; a < slink.length; a++) {
+        slink[a].onclick = PopupHandler;
+    }
+    // create popup
+    function PopupHandler(e) {
+        e = (e ? e : window.event);
+        var t = (e.target ? e.target : e.srcElement);
+        // hide share popup
+        if (sharePopup) {
+            sharePopup.classList.remove('is-visible');
         }
-    });
-
-    // Share buttons pop-up
-    $(function () {
-        // link selector and pop-up window size
-        var Config = {
-            Link: ".js-share",
-            Width: 500,
-            Height: 500
-        };
-        // add handler links
-        var slink = document.querySelectorAll(Config.Link);
-        for (var a = 0; a < slink.length; a++) {
-            slink[a].onclick = PopupHandler;
+        // popup position
+        var px = Math.floor(((screen.availWidth || 1024) - Config.Width) / 2),
+            py = Math.floor(((screen.availHeight || 700) - Config.Height) / 2);
+        // open popup
+        var link_href = t.href ? t.href : t.parentNode.href;
+        var popup = window.open(link_href, "social",
+            "width=" + Config.Width + ",height=" + Config.Height +
+            ",left=" + px + ",top=" + py +
+            ",location=0,menubar=0,toolbar=0,status=0,scrollbars=1,resizable=1");
+        if (popup) {
+            popup.focus();
+            if (e.preventDefault) e.preventDefault();
+            e.returnValue = false;
         }
-        // create popup
-        function PopupHandler(e) {
-            e = (e ? e : window.event);
-            var t = (e.target ? e.target : e.srcElement);
-            // popup position
-            var px = Math.floor(((screen.availWidth || 1024) - Config.Width) / 2),
-                py = Math.floor(((screen.availHeight || 700) - Config.Height) / 2);
-            // open popup
-            var link_href = t.href ? t.href : t.parentNode.href;
-            var popup = window.open(link_href, "social",
-                "width=" + Config.Width + ",height=" + Config.Height +
-                ",left=" + px + ",top=" + py +
-                ",location=0,menubar=0,toolbar=0,status=0,scrollbars=1,resizable=1");
-            if (popup) {
-                popup.focus();
-                if (e.preventDefault) e.preventDefault();
-                e.returnValue = false;
-            }
 
-            return !!popup;
-        }
-    });
+        return !!popup;
+    }
+})();
 
-})(jQuery);
+

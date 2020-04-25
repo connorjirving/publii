@@ -1,3 +1,124 @@
 /* 
  * Add your own CSS code for the WYSIWYG editor 
  */
+
+.ordered-list {
+    counter-reset: listCounter;
+}
+
+.ordered-list li {
+    counter-increment: listCounter;
+    list-style: none;
+    position: relative;
+}
+
+.ordered-list li::before {
+     color: #DF6F27;
+    content: counter(listCounter, decimal-leading-zero) ".";
+    font-weight: 600;
+    left: -2rem;
+    position: absolute;
+}
+
+code {
+    background-color: #f4f4f6;
+    color: #DF6F27;
+    font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+    font-size: 0.8888em;
+}
+
+blockquote {
+    border-color: #DF6F27;
+}
+
+.btn,
+[type=button],
+[type=submit],
+button {
+    background: #000000;
+    border: 1px solid #000000;
+    border-radius: 2px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 0.79012rem;
+    font-weight: 600;
+    letter-spacing: .09em;
+    padding: 0.93333rem 2.8rem;
+    vertical-align: middle;
+    text-align: center;
+    text-transform: uppercase;
+    -webkit-transition: all 0.36s ease;
+    -o-transition: all 0.36s ease;
+    transition: all 0.36s ease;
+    overflow: hidden;
+}
+
+.btn:hover,
+:hover[type=button],
+:hover[type=submit],
+button:hover,
+.btn:active,
+:active[type=button],
+:active[type=submit],
+button:active,
+.btn:focus,
+:focus[type=button],
+:focus[type=submit],
+button:focus {
+    background: #DF6F27;
+    border-color: #DF6F27;
+    -webkit-box-shadow: 0 7px 14px rgba(50, 50, 93, 0.1), 0 3px 6px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 7px 14px rgba(50, 50, 93, 0.1), 0 3px 6px rgba(0, 0, 0, 0.08);
+    color: #FFFFFF;
+    text-decoration: none !important;
+}
+
+.btn--white {
+    background: #FFFFFF !important;
+    border-color: #FFFFFF !important;
+    color: #969798 !important;
+}
+
+.btn--white > svg {
+    fill: #969798;
+}
+
+.btn--yellow {
+    background: #DF6F27 !important;
+    border-color: #DF6F27 !important;
+    color: #FFFFFF !important;
+}
+
+.btn--yellow > svg {
+    fill: #FFFFFF;
+}
+
+.btn--green {
+    background: #5CB85C !important;
+    border-color: #5CB85C !important;
+    color: #FFFFFF !important;
+}
+
+.btn--green > svg {
+    fill: #FFFFFF;
+}
+
+.btn--outline {
+    background: none !important;
+    border: 1px solid #e3e3e4 !important;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #969798;
+}
+
+.btn--outline:hover,
+.btn--outline:active,
+.btn--outline:focus {
+    border-color: #bbbbbc !important;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #343A41;
+}
+
+
