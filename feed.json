@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://cirvingphotography.me/kodak-doublex/",
+            "url": "https://cirvingphotography.me/kodak-doublex/",
+            "title": "The Peak District on 1959 Cinematic Film",
+            "summary": "Kodak Double-X, mostly referred to as \"5222\" was introduced in 1959 and was used in a cinematic sense. Steven Spielberg shot Double-X to capture Schindler's List.Kodak&hellip;",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/109/gallery/img006.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/109/gallery/img006-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"737\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/109/gallery/img003.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/109/gallery/img003-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"313\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/109/gallery/img010.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/109/gallery/img010-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"315\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/109/gallery/img014.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/109/gallery/img014-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"737\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/109/gallery/img022.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/109/gallery/img022-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"732\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/109/gallery/img012.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/109/gallery/img012-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"313\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/109/gallery/img019.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/109/gallery/img019-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"313\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/109/gallery/img021.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/109/gallery/img021-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"313\"></a></figure>\n</div>\n<p>Kodak Double-X, mostly referred to as \"5222\" was introduced in 1959 and was used in a cinematic sense. Steven Spielberg shot Double-X to capture <em>Schindler's List.</em></p>\n<hr>\n<h6 id=\"mcetoc_1e6rpus2h0\" class=\"align-center\">Kodak Double-X 250. Developed in D-76. Shot with Ricoh XR-2.</h6>",
+            "author": {
+                "name": "Connor Irving"
+            },
+            "tags": [
+                   "35mm"
+            ],
+            "date_published": "2020-04-26T18:28:12+01:00",
+            "date_modified": "2020-04-26T18:57:48+01:00"
+        },
+        {
             "id": "https://cirvingphotography.me/bournemouth/",
             "url": "https://cirvingphotography.me/bournemouth/",
             "title": "Bournemouth",
@@ -97,7 +112,7 @@
                    "35mm"
             ],
             "date_published": "2020-04-24T15:51:11+01:00",
-            "date_modified": "2020-04-25T21:32:47+01:00"
+            "date_modified": "2020-04-26T18:59:56+01:00"
         },
         {
             "id": "https://cirvingphotography.me/home-life/",
