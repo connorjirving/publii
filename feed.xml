@@ -3,12 +3,71 @@
     <title>Connor Irving Photography</title>
     <link href="https://cirvingphotography.me/feed.xml" rel="self" />
     <link href="https://cirvingphotography.me" />
-    <updated>2020-04-25T22:20:37+01:00</updated>
+    <updated>2020-04-26T16:36:55+01:00</updated>
     <author>
         <name>Connor Irving</name>
     </author>
     <id>https://cirvingphotography.me</id>
 
+    <entry>
+        <title>Bournemouth</title>
+        <author>
+            <name>Connor Irving</name>
+        </author>
+        <link href="https://cirvingphotography.me/bournemouth/"/>
+        <id>https://cirvingphotography.me/bournemouth/</id>
+            <category term="Street Photography"/>
+            <category term="35mm"/>
+
+        <updated>2020-04-26T15:46:28+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Ilford Kentmere 400Ilford Kentmere 400Ilford Kentmere 400Ilford Kentmere 400Ilford Kentmere 400Rollei Retro 400sRollei Retro 400sRollei Retro 400sRollei Retro 400sRollei Retro 400sRollei Retro 400sWandering the streets&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/108/gallery/Film013.jpg" ><img src="https://cirvingphotography.me/media/posts/108/gallery/Film013-thumbnail.jpg" alt="" width="480" height="322"></a>
+<figcaption class="gallery-description">Ilford Kentmere 400</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/108/gallery/Film015.jpg" ><img src="https://cirvingphotography.me/media/posts/108/gallery/Film015-thumbnail.jpg" alt="" width="480" height="315"></a>
+<figcaption class="gallery-description">Ilford Kentmere 400</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/108/gallery/Film019.jpg" ><img src="https://cirvingphotography.me/media/posts/108/gallery/Film019-thumbnail.jpg" alt="" width="480" height="317"></a>
+<figcaption class="gallery-description">Ilford Kentmere 400</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/108/gallery/Film021.jpg" ><img src="https://cirvingphotography.me/media/posts/108/gallery/Film021-thumbnail.jpg" alt="" width="480" height="318"></a>
+<figcaption class="gallery-description">Ilford Kentmere 400</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/108/gallery/Film023.jpg" ><img src="https://cirvingphotography.me/media/posts/108/gallery/Film023-thumbnail.jpg" alt="" width="480" height="318"></a>
+<figcaption class="gallery-description">Ilford Kentmere 400</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/108/gallery/Film022.jpg" ><img src="https://cirvingphotography.me/media/posts/108/gallery/Film022-thumbnail.jpg" alt="" width="480" height="314"></a>
+<figcaption class="gallery-description">Rollei Retro 400s</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/108/gallery/img007.jpg" ><img src="https://cirvingphotography.me/media/posts/108/gallery/img007-thumbnail.jpg" alt="" width="480" height="315"></a>
+<figcaption class="gallery-description">Rollei Retro 400s</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/108/gallery/img008.jpg" ><img src="https://cirvingphotography.me/media/posts/108/gallery/img008-thumbnail.jpg" alt="" width="480" height="316"></a>
+<figcaption class="gallery-description">Rollei Retro 400s</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/108/gallery/img027.jpg" ><img src="https://cirvingphotography.me/media/posts/108/gallery/img027-thumbnail.jpg" alt="" width="480" height="315"></a>
+<figcaption class="gallery-description">Rollei Retro 400s</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/108/gallery/img031.jpg" ><img src="https://cirvingphotography.me/media/posts/108/gallery/img031-thumbnail.jpg" alt="" width="480" height="317"></a>
+<figcaption class="gallery-description">Rollei Retro 400s</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/108/gallery/img035.jpg" ><img src="https://cirvingphotography.me/media/posts/108/gallery/img035-thumbnail.jpg" alt="" width="480" height="319"></a>
+<figcaption class="gallery-description">Rollei Retro 400s</figcaption>
+</figure>
+</div>
+<p>Wandering the streets of Bournemouth. I wish to return one day. Many interesting things to be seen.</p>
+<hr>
+<h6 id="mcetoc_1e6rf3qi80" class="align-center">Ilford Kentmere 400 &amp; Rollei Retro 400s. Developed in D-76. Shot with Ricoh XR-2</h6>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About</title>
         <author>
@@ -43,7 +102,7 @@
         <id>https://cirvingphotography.me/architecture/</id>
             <category term="35mm"/>
 
-        <updated>2020-04-25T21:53:09+01:00</updated>
+        <updated>2020-04-26T15:56:42+01:00</updated>
             <summary>
                 <![CDATA[
                     Ilford Kentmere 400. Developed in D-76. Shot with Canon Sureshot AF-7.
