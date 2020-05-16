@@ -3,23 +3,69 @@
     <title>Connor Irving Photography</title>
     <link href="https://cirvingphotography.me/feed.xml" rel="self" />
     <link href="https://cirvingphotography.me" />
-    <updated>2020-05-11T19:14:11+01:00</updated>
+    <updated>2020-05-16T21:46:07+01:00</updated>
     <author>
         <name>Connor Irving</name>
     </author>
     <id>https://cirvingphotography.me</id>
 
     <entry>
+        <title>Portraiture</title>
+        <author>
+            <name>Connor Irving</name>
+        </author>
+        <link href="https://cirvingphotography.me/portraiture/"/>
+        <id>https://cirvingphotography.me/portraiture/</id>
+            <category term="Portraiture"/>
+            <category term="Digital"/>
+
+        <updated>2020-05-16T21:26:08+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Portraiture used for various projects through University. Locations: Lincoln, Middlesborough, York and Bournemouth. Shot with Fuji X-Pro 1 with both 35mm and 50mm CCTV Lenses.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Ash-Burnett-2.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Ash-Burnett-2-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Ash-Burnett-4.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Ash-Burnett-4-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Ash-Burnett-7.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Ash-Burnett-7-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Ash-Burnett-11.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Ash-Burnett-11-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Ash-Burnett-13.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Ash-Burnett-13-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Ash-Burnett-14.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Ash-Burnett-14-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Law-Emilia-3.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Law-Emilia-3-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Law-Emilia-4.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Law-Emilia-4-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Melissa-Ida-2.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Melissa-Ida-2-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Melissa-Ida-3.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Melissa-Ida-3-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Melissa-Ida-10.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Melissa-Ida-10-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Melissa-Ida-14.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Melissa-Ida-14-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Melissa-Ida-18.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Melissa-Ida-18-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-2.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-2-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-6.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-6-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-9.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-9-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-12.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-12-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-14.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-14-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-16.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-16-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-23.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-23-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-26.jpg" ><img src="https://cirvingphotography.me/media/posts/111/gallery/Ruth-Leapord-26-thumbnail.jpg" alt="" width="480" height="720"></a></figure>
+</div>
+<hr>
+<h6 id="mcetoc_1e8fid6gj0" class="align-center">Portraiture used for various projects through University. Locations: Lincoln, Middlesborough, York and Bournemouth. Shot with Fuji X-Pro 1 with both 35mm and 50mm CCTV Lenses.</h6>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>United Kingdom &amp; Portugal Film Swap</title>
         <author>
             <name>Connor Irving</name>
         </author>
-        <link href="https://cirvingphotography.me/portugall-film-swap/"/>
-        <id>https://cirvingphotography.me/portugall-film-swap/</id>
+        <link href="https://cirvingphotography.me/portugal-film-swap/"/>
+        <id>https://cirvingphotography.me/portugal-film-swap/</id>
             <category term="Film Swap"/>
             <category term="35mm"/>
 
-        <updated>2020-05-09T20:48:00+01:00</updated>
+        <updated>2020-05-16T21:20:36+01:00</updated>
             <summary>
                 <![CDATA[
                     Agfa ADX. Developed in D-76. Shot with Ricoh XR-2. Film swap partner @nordhoff_by_nature.
