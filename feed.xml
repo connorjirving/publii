@@ -3,28 +3,12 @@
     <title>Connor Irving Photography</title>
     <link href="https://cirvingphotography.me/feed.xml" rel="self" />
     <link href="https://cirvingphotography.me" />
-    <updated>2020-09-07T17:53:53+01:00</updated>
+    <updated>2020-09-07T17:56:34+01:00</updated>
     <author>
         <name>Connor Irving</name>
     </author>
     <id>https://cirvingphotography.me</id>
 
-    <entry>
-        <title>Flâneur</title>
-        <author>
-            <name>Connor Irving</name>
-        </author>
-        <link href="https://cirvingphotography.me/flaneur/"/>
-        <id>https://cirvingphotography.me/flaneur/</id>
-
-        <updated>2020-09-07T17:53:39+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <script type="text/javascript" src="https://form.jotform.com/jsform/202494306602348"></script>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Disposable Lock Down</title>
         <author>
@@ -410,6 +394,39 @@
 <p> </p>
 <p>Connor Irving. (BA)</p>
 <p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Architecture from Worksop to Lincoln</title>
+        <author>
+            <name>Connor Irving</name>
+        </author>
+        <link href="https://cirvingphotography.me/architecture/"/>
+        <id>https://cirvingphotography.me/architecture/</id>
+            <category term="D-76"/>
+            <category term="35mm"/>
+
+        <updated>2020-05-28T16:49:09+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Ilford Kentmere 400. Developed in D-76. Shot with Canon Sureshot AF-7.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img002.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img002-thumbnail.jpg" alt="" width="480" height="314"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img010.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img010-thumbnail.jpg" alt="" width="480" height="314"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img013.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img013-thumbnail.jpg" alt="" width="480" height="318"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img014.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img014-thumbnail.jpg" alt="" width="480" height="314"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img016.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img016-thumbnail.jpg" alt="" width="480" height="311"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img020.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img020-thumbnail.jpg" alt="" width="480" height="318"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img023.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img023-thumbnail.jpg" alt="" width="480" height="729"></a></figure>
+<figure class="gallery__item"><a href="https://cirvingphotography.me/media/posts/106/gallery/img024.jpg" ><img src="https://cirvingphotography.me/media/posts/106/gallery/img024-thumbnail.jpg" alt="" width="480" height="316"></a></figure>
+</div>
+<hr>
+<h6 id="mcetoc_1e6ph6p390" class="align-center">Ilford Kentmere 400. Developed in D-76. Shot with Canon Sureshot AF-7.</h6>
             ]]>
         </content>
     </entry>
