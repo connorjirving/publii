@@ -229,7 +229,11 @@
 </url>
 <url>
 <loc>https://cirvingphotography.me/flaneur/</loc>
-<lastmod>2020-09-07T17:44:30+01:00</lastmod>
+<lastmod>2020-09-07T17:49:34+01:00</lastmod>
+<image:image>
+<image:loc>https://cirvingphotography.me/media\posts\123/Thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://cirvingphotography.me/flour-mill/</loc>
@@ -608,6 +612,9 @@
 </url>
 <url>
 <loc>https://cirvingphotography.me/post/portraits/</loc>
+</url>
+<url>
+<loc>https://cirvingphotography.me/post/publications/</loc>
 </url>
 <url>
 <loc>https://cirvingphotography.me/post/street/</loc>

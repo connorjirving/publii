@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://cirvingphotography.me/flaneur/",
+            "url": "https://cirvingphotography.me/flaneur/",
+            "title": "Flâneur",
+            "content_html": "<script type=\"text/javascript\" src=\"https://form.jotform.com/jsform/202494306602348\"></script>",
+            "author": {
+                "name": "Connor Irving"
+            },
+            "tags": [
+                   "Publications",
+                   "Digital"
+            ],
+            "date_published": "2020-09-07T17:44:30+01:00",
+            "date_modified": "2020-09-07T17:49:34+01:00"
+        },
+        {
             "id": "https://cirvingphotography.me/disposable-lock-down/",
             "url": "https://cirvingphotography.me/disposable-lock-down/",
             "title": "Disposable Lock Down",
@@ -153,22 +168,6 @@
             ],
             "date_published": "2020-04-25T22:16:34+01:00",
             "date_modified": "2020-04-25T22:16:34+01:00"
-        },
-        {
-            "id": "https://cirvingphotography.me/architecture/",
-            "url": "https://cirvingphotography.me/architecture/",
-            "title": "Architecture from Worksop to Lincoln",
-            "summary": "Ilford Kentmere 400. Developed in D-76. Shot with Canon Sureshot AF-7.",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/106/gallery/img002.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/106/gallery/img002-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"314\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/106/gallery/img010.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/106/gallery/img010-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"314\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/106/gallery/img013.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/106/gallery/img013-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"318\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/106/gallery/img014.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/106/gallery/img014-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"314\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/106/gallery/img016.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/106/gallery/img016-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"311\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/106/gallery/img020.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/106/gallery/img020-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"318\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/106/gallery/img023.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/106/gallery/img023-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"729\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cirvingphotography.me/media/posts/106/gallery/img024.jpg\" ><img src=\"https://cirvingphotography.me/media/posts/106/gallery/img024-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"316\"></a></figure>\n</div>\n<hr>\n<h6 id=\"mcetoc_1e6ph6p390\" class=\"align-center\">Ilford Kentmere 400. Developed in D-76. Shot with Canon Sureshot AF-7.</h6>",
-            "author": {
-                "name": "Connor Irving"
-            },
-            "tags": [
-                   "D-76",
-                   "35mm"
-            ],
-            "date_published": "2020-04-25T21:51:19+01:00",
-            "date_modified": "2020-05-28T16:49:09+01:00"
         }
     ]
 }
